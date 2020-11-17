@@ -9,7 +9,9 @@
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![pjirsa's github stats](https://github-readme-stats.vercel.app/api?username=pjirsa&count_private=true&include_all_commits=true&theme=radical)](https://www.microsoft.com)
+![Github stats](https://raw.githubusercontent.com/pjirsa/github-stats/master/generated/overview.svg)
+![language stats](https://raw.githubusercontent.com/pjirsa/github-stats/master/generated/languages.svg)
+
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
