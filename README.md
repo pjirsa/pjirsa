@@ -9,9 +9,8 @@
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-![Github stats](https://raw.githubusercontent.com/pjirsa/github-stats/master/generated/overview.svg)
-![language stats](https://raw.githubusercontent.com/pjirsa/github-stats/master/generated/languages.svg)
-
+![Github stats](https://github-stats-api.azurewebsites.net/api/StatsHttpTrigger?code=rrZrOOfgafVPZpKZnBXw614rCck79IdToB4doOJuC8NN5IdDXa0wNA==&username=pjirsa&show_icons=true)
+![language stats](https://github-stats-api.azurewebsites.net/api/TopLangsHttpTrigger?code=MCp/j6kumeenWJWxuTrJrHoT47pgSBkLOd3mW0Wd0qA6hfmMJShV7Q==&username=pjirsa&layout=compact)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
