@@ -2,9 +2,9 @@
 
 ## Cloud Solution Architect at [@Microsoft](https://www.microsoft.com)
 - 🔭 I’m currently working on - Azure App Innovations for Health and Life Science Customers
-- 🌱 I’m currently learning - FAST, GoLang
+- 🌱 I’m currently learning - Codespaces, Azure Spring Cloud
 - 💬 Ask me about - Anything Azure
-- 🥅 2020 Goal - Survival
+- 🥅 2021 Goal - Appreciate the little things
 - ⚡ Fun fact - Cat Dad 😺
 
 <!-- ❔❔❔❔ means username in below README.md -->
