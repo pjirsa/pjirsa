@@ -13,7 +13,7 @@
 ![language stats](https://github-stats-api.azurewebsites.net/api/TopLangsHttpTrigger?code=MCp/j6kumeenWJWxuTrJrHoT47pgSBkLOd3mW0Wd0qA6hfmMJShV7Q==&username=pjirsa&layout=compact)-->
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="filter:invert(54%) sepia(46%) saturate(1679%) hue-rotate(184deg) brightness(98%) contrast(90%);" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
