@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on - Azure App Innovations for Health and Life Science Customers
 - 🌱 I’m currently learning - Jekyll, Blazor WebAssembly
 - 💬 Ask me about - Anything Azure
-- 🥅 2021 Goal - Appreciate the little things
+- 🥅 2022 Goal - Impact
 - ⚡ Fun fact - Cat Dad 😺
 
 <!-- ❔❔❔❔ means username in below README.md -->
