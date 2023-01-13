@@ -2,9 +2,9 @@
 
 ## Cloud Solution Architect at [@Microsoft](https://www.microsoft.com)
 - 🔭 I’m currently working on - Azure App Innovations for Health and Life Science Customers
-- 🌱 I’m currently learning - Jekyll, Blazor WebAssembly
+- 🌱 I’m currently learning - Hugo, Rust, Dapr
 - 💬 Ask me about - Anything Azure
-- 🥅 2022 Goal - Impact
+- 🥅 2023 Goal - Impact 🏌️⛳
 - ⚡ Fun fact - Cat Dad 😺
 
 <!-- ❔❔❔❔ means username in below README.md -->
@@ -13,8 +13,8 @@
 ![language stats](https://github-stats-api.azurewebsites.net/api/TopLangsHttpTrigger?code=MCp/j6kumeenWJWxuTrJrHoT47pgSBkLOd3mW0Wd0qA6hfmMJShV7Q==&username=pjirsa&layout=compact)-->
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="linkedin.svg" />][linkedin]
 <br />
 
 <!-- Optional if you have blogs -->
