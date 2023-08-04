@@ -2,7 +2,7 @@
 
 ## Cloud Solution Architect at [@Microsoft](https://www.microsoft.com)
 - 🔭 I’m currently working on - Azure App Innovations for Health and Life Science Customers
-- 🌱 I’m currently learning - Hugo, Rust, Dapr
+- 🌱 I’m currently learning - Python, [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/), [Red Hat OpenShift](https://docs.openshift.com/)
 - 💬 Ask me about - Anything Azure
 - 🥅 2023 Goal - Impact 🏌️⛳
 - ⚡ Fun fact - Cat Dad 😺
