@@ -2,9 +2,9 @@
 
 ## Cloud Solution Architect at [@Microsoft](https://www.microsoft.com)
 - 🔭 I’m currently working on - Azure App Innovations for Health and Life Science Customers
-- 🌱 I’m currently learning - Python, [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/), [Red Hat OpenShift](https://docs.openshift.com/)
+- 🌱 I’m currently learning - Python, [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/)
 - 💬 Ask me about - Anything Azure
-- 🥅 2023 Goal - Impact 🏌️⛳
+- 🥅 2025 Goal - Impact 🏌️⛳
 - ⚡ Fun fact - Cat Dad 😺
 
 <!-- ❔❔❔❔ means username in below README.md -->
@@ -13,7 +13,6 @@
 ![language stats](https://github-stats-api.azurewebsites.net/api/TopLangsHttpTrigger?code=MCp/j6kumeenWJWxuTrJrHoT47pgSBkLOd3mW0Wd0qA6hfmMJShV7Q==&username=pjirsa&layout=compact)-->
 
 ## Connect with me:
-[<img align="left" alt="Twitter" width="22px" src="twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="linkedin.svg" />][linkedin]
 <br />
 
@@ -24,5 +23,4 @@
 
 <!-- This section you create this variables that are used above -->
 [website]: https://www.microsoft.com
-[twitter]: https://twitter.com/pjirsa
 [linkedin]: https://www.linkedin.com/in/phil-jirsa/
